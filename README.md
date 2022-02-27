@@ -1,4 +1,4 @@
-# ☠️ Generate **FUD** backdoor with a Python **Crypter** ☠️
+# ☠️ Generate **ANY** backdoor with a Python **Crypter** ☠️
 
 ## DISCLAIMER
 
